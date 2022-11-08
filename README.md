@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anjani Babu</h1>
+[![MasterHead](https://www.bsebti.com/blog/wp-content/uploads/2022/04/data-scientist.jpg)
+<h1 align="center">Hi 👋, I'm Anjani Babu Janyavula</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/z/machine-learning-hand-robot-touching-binary-data-futuristic-artificial-intelligence-ai-deep-brain-representing-algorithm-148215070.jpg">
+<img align="right" alt="Coding" width="400" src="https://skillscouter.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-08-at-15.26.38-pm.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anji-578&label=Profile%20views&color=0e75b6&style=flat" alt="anji-578" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anji-578" alt="anji-578" /></a> </p>
@@ -31,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anji-578&show_icons=true&locale=en&layout=compact" alt="anji-578" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anji-578&show_icons=true&locale=en" alt="anji-578" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anji-578&" alt="anji-578" /></p>
