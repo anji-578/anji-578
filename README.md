@@ -1,11 +1,6 @@
 [![MasterHead](https://www.bsebti.com/blog/wp-content/uploads/2022/04/data-scientist.jpg)
 <h1 align="center">Hi 👋, I'm Anjani Babu Janyavula</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://skillscouter.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-08-at-15.26.38-pm.webp">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anji-578&label=Profile%20views&color=0e75b6&style=flat" alt="anji-578" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anji-578" alt="anji-578" /></a> </p>
 
 - 🔭 I’m currently working on **Baby Care monitoring system**
 
@@ -20,6 +15,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/10nCKE9iPTj22A1G_j3SD4lutr7fk4xUD/view?usp=share_link](https://drive.google.com/file/d/10nCKE9iPTj22A1G_j3SD4lutr7fk4xUD/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anji-578&label=Profile%20views&color=0e75b6&style=flat" alt="anji-578" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anji-578" alt="anji-578" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
